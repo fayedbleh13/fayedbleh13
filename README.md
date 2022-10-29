@@ -1,7 +1,6 @@
 [![MasterHead](https://github.com/fayedbleh13/fayedbleh13/blob/main/header.png)](https://github.com/fayedbleh13)
 
-<h1 align="center">Meow 👋, I'm Fayed Mauyag</h1>
-<h3 align="center">A passionate Web Developer who loves cats.</h3>
+<h3 align="center">A passionate web developer who loves cats.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayedbleh13&label=Profile%20views&color=0e75b6&style=flat" alt="fayedbleh13" /> </p>
 
