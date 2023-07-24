@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayedbleh13&label=Profile%20views&color=0e75b6&style=flat" alt="fayedbleh13" /> </p>
 
-- 🔭 I’m currently working on [Notes Web App (MERN)](https://github.com/fayedbleh13/notes-webapp-mern)
+- 🔭 I’m currently working on a secret project
 
 - 🌱 I’m currently learning **React, NodeJS, Express, MongoDB**
 
