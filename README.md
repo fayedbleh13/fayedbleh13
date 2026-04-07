@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayedbleh13&label=Profile%20views&color=0e75b6&style=flat" alt="fayedbleh13" /> </p>
 
-- 🌱 I’m currently learning **Typescript, NextJS**
+- 🌱 I’m currently learning **AI/LLMS**
 
 - 📫 How to reach me **faemauyag13@gmail.com**
 
