@@ -7,7 +7,6 @@
 ---
 
 - 🔭 I'm currently working on **Eternal Echoes**
-- 🌱 I'm currently learning **AI/LLMs**
 - 📫 How to reach me **faemauyag13@gmail.com**
 - ⚡ Fun fact **i love cats**
 - 👨‍💻 All of my projects are available at **https://fayedbleh.vercel.app/**
